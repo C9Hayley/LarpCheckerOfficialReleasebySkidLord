@@ -15,7 +15,7 @@ Discord: https://discord.gg/A4BcW88zrz
 --]]
 
 game.StarterGui:SetCore("SendNotification", {
-    Title = "LaroChecker";
+    Title = "LarpChecker";
     Text = "Created by: C9Hayley";
     Duration = 5;
     Icon = "https://ww.roblox.com/asset/?id=128372267928284"
